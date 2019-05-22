@@ -119,6 +119,7 @@ maxMatches | `Number` | 10 | Maximum amount of list items to appear.
 minMatchingChars | `Number` | 2 | Minimum matching characters in query before the typeahead list appears
 prepend | `String` | | Text to be prepended to the `input-group`
 append | `String` | | Text to be appended to the `input-group`
+showAll | `Boolean` | | If true, all items in 'data' are shown in the list
 
 ### Events
 Name | Description
